@@ -43,7 +43,7 @@ Concentrations of E2 studied:
   Spearman correlation heatmaps visualizing sample-to-sample similarity based on gene expression profiles.
 
 ### GSEA application results
-- **`my_analysis.Gsea.[timestamp]/`**  
+- **`gsea_report_for_[control/treatment]`**  
   Output from GSEA analyses, including:
   - Enrichment scores
   - Leading edge subsets
@@ -51,5 +51,5 @@ Concentrations of E2 studied:
   - Summary reports (HTML, TSV, and PNG images)
 
 ### GO subcomponent and Biomarker results and graphs
-- **`estradiol10000_GO_`**  
+- **`estradiol[Conc]_GO_`**  
   Contains enrichment results focusing on Gene Ontology (GO) subcomponents and biomarker gene sets, including graphs summarizing key biological themes.
