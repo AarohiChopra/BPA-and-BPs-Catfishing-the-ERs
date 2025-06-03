@@ -51,5 +51,5 @@ Concentrations of E2 studied:
   - Summary reports (HTML, TSV, and PNG images)
 
 ### GO subcomponent and Biomarker results and graphs
-- **`estraGSEARes/`**  
+- **`estradiol10000_GO_`**  
   Contains enrichment results focusing on Gene Ontology (GO) subcomponents and biomarker gene sets, including graphs summarizing key biological themes.
