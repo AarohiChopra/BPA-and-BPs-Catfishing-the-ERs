@@ -1,1 +1,1 @@
-Analyzing samples for samples exposed to 100 μm of BPA
+Analyzing samples for samples exposed to 100 μm of BPA.
