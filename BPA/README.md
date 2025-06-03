@@ -56,3 +56,7 @@ Concentrations of BPA studied:
 ### GO subcomponent and Biomarker results and graphs
 - **`BPA[Conc]_GO_`**  
   Contains enrichment results focusing on Gene Ontology (GO) subcomponents and biomarker gene sets, including graphs summarizing key biological themes.
+
+### Heatmap of Normalized Gene Expression and Log2 Fold Change
+- **`normCountsheatmapBPA`** 
+Heatmap displays normalized expression (Z-scores) of selected estrogen-responsive genes across control and BPA-treated MCF-7 samples. The side annotations indicate log2 fold change and average expression values, highlighting genes consistently up- or downregulated in response to estradiol exposure.
