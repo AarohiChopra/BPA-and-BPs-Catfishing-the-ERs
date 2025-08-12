@@ -1,6 +1,6 @@
 # Estradiol RNA-seq Analysis Directory
 
-This directory contains the analysis results for samples exposed to **17β-estradiol (E2)** at multiple concentrations compared to DMSO vehicle control in **MCF-7 breast cancer cells**.
+This directory contains the analysis results for samples exposed to **17β-estradiol (E2)**\* at multiple concentrations compared to DMSO vehicle control in **MCF-7 breast cancer cells**.
 
 ## Description
 
@@ -57,3 +57,5 @@ Concentrations of E2 studied:
 ### Heatmap of Normalized Gene Expression and Log2 Fold Change
 - **`normCountsheatmapEstra`** 
 Heatmap displays normalized expression (Z-scores) of selected estrogen-responsive genes across control and estradiol-treated MCF-7 samples. The side annotations indicate log2 fold change and average expression values, highlighting genes consistently up- or downregulated in response to estradiol exposure.
+
+\* Samples that were associated with Plate 1B index G were excluded from the analysis as showed low intra-group correlation.
