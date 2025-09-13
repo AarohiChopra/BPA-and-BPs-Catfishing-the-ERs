@@ -1,0 +1,9 @@
+x	condition
+SRR21043223	Treatment
+SRR21043305	Treatment
+SRR21043462	Treatment
+SRR21043891	Treatment
+SRR21043816	Control
+SRR21043814	Control
+SRR21043817	Control
+SRR21043815	Control
